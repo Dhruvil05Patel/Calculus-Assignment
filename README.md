@@ -1,6 +1,6 @@
 # Calculus-Assignment
 
-Members:- </br>
+**Members:-**</br>
 Dhruvil Patel</br>
 Kavish Patel</br>
 Yaksh Patel</br>
