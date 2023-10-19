@@ -1,3 +1,8 @@
 # Calculus-Assignment
 Members:- </br>
-Leader:-Dhruvil
+Dhruvil Patel</br>
+Kavish Patel</br>
+Yaksh Patel</br>
+Kavya Sanghani</br>
+Rishank Dudhat</br>
+
