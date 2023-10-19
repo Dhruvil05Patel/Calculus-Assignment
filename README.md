@@ -1,4 +1,4 @@
-<marquee># Calculus-Assignment</marquee>
+#Calculus-Assignment
 Members:- </br>
 Dhruvil Patel</br>
 Kavish Patel</br>
