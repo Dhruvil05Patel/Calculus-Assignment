@@ -1,7 +1,7 @@
 # Calculus-Assignment
 
 **<i>Members:-</i>**</br>
-Dhruvil Patel</br>
+Dhruvill Patel</br>
 Kavish Patel</br>
 Yaksh Patel</br>
 Kavya Sanghani</br>
