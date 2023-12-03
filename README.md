@@ -1,6 +1,6 @@
 # Calculus-Assignment
 
-**<i>Members:-</i>**</br>
+**<u><i>Members:-</i></u>**</br></br>
 Dhruvil Patel(Leader)</br> 
 Kavish Patel</br>
 Yaksh Patel</br>
